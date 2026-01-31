@@ -114,24 +114,7 @@ The insights can help improve sales planning, promotional strategy, and delivery
 
 ---
 
-## Repository Structure
-FNP-Sales-Analysis/
-│
-├── README.md
-├── data/
-│ ├── orders.csv
-│ ├── customers.csv
-│ ├── products.csv
-│ └── cleaned_fnp_sales_data.csv
-│
-├── dashboard/
-│ └── FNP_Sales_Dashboard.xlsx
-│
-├── visuals/
-│ └── dashboard_overview.png
-│
-└── reports/
-└── FNP_Sales_Analysis_Executive_Summary.pdf
+The repository contains raw datasets, a cleaned dataset, the Excel dashboard, dashboard visuals, and a project report.
 
 ## Dashboard Preview
 
